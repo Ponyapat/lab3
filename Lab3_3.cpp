@@ -4,9 +4,9 @@ using namespace std;
 int main() 
 { 
     double sum;
-    float n=2;
+    float n=6;
     
-    while( n<69 ){
+    while( n<19 ){
     	sum = sum + 1/n;
     	n++;
 	}
